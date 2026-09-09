@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kjk6031
-- 👀 I’m interested in Reading
+- 👀 I’m interested in Reading and analytical thinking.
 - 🌱 I’m currently learning programming and cybersecurity
 - 💞️ I’m looking to collaborate on this platform
 - 📫 How to reach me
